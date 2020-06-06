@@ -13,6 +13,14 @@
   }
 }
 
+.Table button {
+  color: white;
+  background-color: cornflowerblue;
+  border-style: solid;
+  border-color: transparent;
+  border-radius: 10px;
+}
+
 .containsAll {
   background-color: lightcoral;
 }
@@ -27,6 +35,8 @@
 .App-link {
   color: #61dafb;
 }
+
+
 
 @keyframes App-logo-spin {
   from {
