@@ -65,6 +65,7 @@ class Table extends Component {
         <button onClick={this.removeColumn}>Remove Column</button>{" "}
         <select onChange={this.chooseColor}>
           <option value="blue">blue</option>
+          <option value="lightcoral">uncolor</option>
           <option value="white">white</option>
           <option value="red">red</option>
           <option value="black">black</option>
