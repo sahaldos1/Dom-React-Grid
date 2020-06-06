@@ -3,6 +3,8 @@ import './App.css';
 import Table  from "./Components/Table.js";
 
 function App() {
+
+  //returns a heading and the table object
   return (
     <div className="App">
       <div className="containAll">
